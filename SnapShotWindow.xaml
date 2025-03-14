@@ -13,6 +13,7 @@
         ShowInTaskbar="False"
         Topmost="True"
         WindowStyle="None" 
+        WindowState="Maximized"
         WindowStartupLocation="CenterScreen">
     <WindowChrome.WindowChrome>
         <WindowChrome CaptionHeight="0" GlassFrameThickness="-1" />
